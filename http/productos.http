@@ -1,4 +1,6 @@
+GET http://localhost:8080/api/productos
 POST http://localhost:8080/api/productos
+
 Content-Type: application/json
 
 {
